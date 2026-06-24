@@ -1,10 +1,11 @@
 baseURL = 'https://Kevinnfeng.github.io/'
 locale = 'zh-cn'
-title = 'Kevin's Blog'
+title = "Kevin's Blog"
 theme = "PaperMod"
 
 [params]
   comments = true
+
   [params.giscus]
     repo = "Kevinnfeng/Kevinnfeng.github.io"
     repoId = "R_kgDOTDjkGQ"

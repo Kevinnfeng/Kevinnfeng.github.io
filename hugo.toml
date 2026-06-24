@@ -4,6 +4,7 @@ title = 'Kevin的博客'
 theme = "PaperMod"
 
 [params]
+  comments = true
   [params.giscus]
     repo = "Kevinnfeng/Kevinnfeng.github.io"
     repoId = "R_kgDOTDjkGQ"
@@ -15,6 +16,3 @@ theme = "PaperMod"
     inputPosition = "bottom"
     theme = "preferred_color_scheme"
     lang = "zh-CN"
-
-[params]
-  comments = true

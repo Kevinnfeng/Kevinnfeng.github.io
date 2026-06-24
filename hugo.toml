@@ -1,6 +1,6 @@
 baseURL = 'https://Kevinnfeng.github.io/'
 locale = 'zh-cn'
-title = 'Kevin的博客'
+title = 'Kevin's Blog'
 theme = "PaperMod"
 
 [params]

@@ -1,10 +1,14 @@
-baseURL = 'https://Kevinnfeng.github.io/'
-locale = 'zh-cn'
+baseURL = 'https://kevinnfeng.github.io/'
 title = "Kevin's Blog"
 theme = "PaperMod"
 
 [params]
   comments = true
+  defaultTheme = "auto"
+  ShowReadingTime = true
+  ShowToc = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
 
   [params.giscus]
     repo = "Kevinnfeng/Kevinnfeng.github.io"
@@ -16,4 +20,4 @@ theme = "PaperMod"
     emitMetadata = "0"
     inputPosition = "bottom"
     theme = "preferred_color_scheme"
-    lang = "zh-CN"
+    lang = "en"

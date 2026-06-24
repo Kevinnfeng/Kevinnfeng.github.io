@@ -13,7 +13,7 @@
       <link>http://localhost:1313/posts/my-first-post/</link>
       <pubDate>Wed, 24 Jun 2026 12:47:22 +0800</pubDate>
       <guid>http://localhost:1313/posts/my-first-post/</guid>
-      <description></description>
+      <description>&lt;p&gt;Hellow , this is my first blog , today i use the claude help me construct my first blog.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

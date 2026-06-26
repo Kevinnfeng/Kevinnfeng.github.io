@@ -1,6 +1,7 @@
 baseURL = 'https://kevinnfeng.github.io/'
 title = "Kevin's Blog"
 theme = "PaperMod"
+copyright = "© 2026 · made with ♥ by Kevin"
 
 [params]
   comments = true
@@ -21,3 +22,17 @@ theme = "PaperMod"
     inputPosition = "bottom"
     theme = "preferred_color_scheme"
     lang = "en"
+
+[menu]
+  [[menu.main]]
+    name = "Posts"
+    url = "/posts/"
+    weight = 10
+  [[menu.main]]
+    name = "TIL"
+    url = "/til/"
+    weight = 20
+  [[menu.main]]
+    name = "Thoughts"
+    url = "/thoughts/"
+    weight = 30
